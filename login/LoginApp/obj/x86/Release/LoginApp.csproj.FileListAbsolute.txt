@@ -1,0 +1,10 @@
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\bin\Release\LoginApp.exe
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\bin\Release\LoginApp.pdb
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\obj\x86\Release\LoginApp.csprojAssemblyReference.cache
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\obj\x86\Release\LoginApp.frmLogin.resources
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\obj\x86\Release\LoginApp.frmMain.resources
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\obj\x86\Release\LoginApp.Properties.Resources.resources
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\obj\x86\Release\LoginApp.csproj.GenerateResource.cache
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\obj\x86\Release\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\obj\x86\Release\LoginApp.exe
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\obj\x86\Release\LoginApp.pdb

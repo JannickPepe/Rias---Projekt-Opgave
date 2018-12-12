@@ -1,0 +1,19 @@
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.frmLogin.resources
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.frmMain.resources
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.Properties.Resources.resources
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.csproj.GenerateResource.Cache
+C:\Do Not Delete\LoginApp\LoginApp\bin\Debug\LoginApp.exe
+C:\Do Not Delete\LoginApp\LoginApp\bin\Debug\LoginApp.pdb
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.exe
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.pdb
+C:\Do Not Delete\LoginApp\LoginApp\obj\x86\Debug\LoginApp.csprojResolveAssemblyReference.cache
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\bin\Debug\LoginApp.exe
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\bin\Debug\LoginApp.pdb
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\obj\x86\Debug\LoginApp.csprojAssemblyReference.cache
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\obj\x86\Debug\LoginApp.frmLogin.resources
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\obj\x86\Debug\LoginApp.frmMain.resources
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\obj\x86\Debug\LoginApp.Properties.Resources.resources
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\obj\x86\Debug\LoginApp.csproj.GenerateResource.cache
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\obj\x86\Debug\LoginApp.csproj.CoreCompileInputs.cache
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\obj\x86\Debug\LoginApp.exe
+C:\Users\xnikm\Desktop\Rias-local\login\LoginApp\obj\x86\Debug\LoginApp.pdb
